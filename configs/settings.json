@@ -1,0 +1,33 @@
+{
+  "token": "MTA0MDM0MDg3MDA5Mzg4MTQxNA.GPmWvU.rRV9ulD9PsJEjEGaiqah6pJIRAqbbc5AaVYON4",
+  "prefix": [".","",""],
+  "guildID": "1048950793803403264",
+  "mongoUrl": "mongodb+srv://burayaya mongo gircen knk@cluster0.nubpc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "owners": ["514943676061974529","871293412102524948",""],
+  "botDurum": "ÇAÇA ❤️ Was Here",
+  "botSes": "1049348970901688421",
+  "registerPerm": "1049348546970779788",
+
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+
+  "messageCount": 1,
+  "messageCoin": 2,
+  "voiceCount": 1,
+  "voiceCoin": 4,
+  "publicCoin": 4,
+  "inviteCount": 1,
+  "inviteCoin": 15,
+  "taggedCoin": 25,
+  "toplamsCoin": 5.5,
+  "yetkiCoin": 30,
+
+  "banlimit": 3,
+  "jaillimit": 3,
+  "warnlimit": 3,
+  "chatmutelimit": 3,
+  "voicemutelimit": 3
+}
